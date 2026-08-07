@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ========================================= -->
+    <!-- Emerald Green Theme -->
+    <!-- ========================================= -->
+
+    <!-- Primary Colors -->
+    <color name="primary">#0F9D58</color>
+    <color name="primary_dark">#087F46</color>
+    <color name="primary_light">#34C759</color>
+
+    <!-- Accent -->
+    <color name="accent">#00C853</color>
+
+    <!-- Compatibility (Old XML Support) -->
+    <color name="accent_green">#0F9D58</color>
+
+    <!-- Background -->
+    <color name="background">#F5FFF8</color>
+
+    <!-- Surface -->
+    <color name="surface">#EAF7EE</color>
+
+    <!-- Card -->
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Divider -->
+    <color name="divider">#E5E7EB</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#6B7280</color>
+
+    <!-- Status -->
+    <color name="success">#22C55E</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+
+    <!-- White & Black -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Material Defaults -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+</resources>

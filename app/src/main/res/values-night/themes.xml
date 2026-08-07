@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style
+        name="Base.Theme.CodeAlpha_FitnessTrackerApp"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/primary_light</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <item name="colorSurface">#0F1F16</item>
+        <item name="colorOnSurface">@color/white</item>
+
+        <item name="android:colorBackground">#09140D</item>
+
+        <item name="android:windowBackground">#09140D</item>
+
+        <item name="android:statusBarColor">#09140D</item>
+        <item name="android:navigationBarColor">#09140D</item>
+
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+
+        <item name="android:fontFamily">sans-serif</item>
+
+    </style>
+
+    <style
+        name="Theme.CodeAlpha_FitnessTrackerApp"
+        parent="Base.Theme.CodeAlpha_FitnessTrackerApp" />
+
+    <!-- Keep launch screen green in dark mode too -->
+    <style
+        name="Theme.CodeAlpha_FitnessTrackerApp.Starting"
+        parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">@color/primary</item>
+
+        <item name="windowSplashScreenAnimatedIcon">
+            @mipmap/ic_launcher_round
+        </item>
+
+        <item name="windowSplashScreenAnimationDuration">300</item>
+
+        <item name="postSplashScreenTheme">
+            @style/Theme.CodeAlpha_FitnessTrackerApp
+        </item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#121218</color>
+    <color name="surface">#1E1E2A</color>
+    <color name="card_background">#252536</color>
+
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFC7C7D1</color>
+
+    <color name="primary">#FFB7A1FF</color>
+    <color name="primary_dark">#FF8E72FF</color>
+    <color name="accent_green">#FF66BB6A</color>
+
+    <color name="divider">#FF34343E</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>
