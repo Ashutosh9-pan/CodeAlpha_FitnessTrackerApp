@@ -1,4 +1,4 @@
-# VitaFit – AI Fitness Tracker
+# VitaFit-AI-Fitness-Tracker
 
 > **Stack:** Java • Android • Firebase • Firebase AI Logic • SQLite
 
@@ -98,7 +98,7 @@ AI responses are formatted for clear mobile reading and include safety-focused i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ashutosh9-pan/VitaFit-AI-Fitness-Tracker.git
+   git clone https://github.com/Ashutosh9-pan/CodeAlpha_FitnessTrackerApp.git
    ```
 
 2. Open the project in Android Studio.
