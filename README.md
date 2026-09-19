@@ -1,5 +1,9 @@
 # VitaFit – AI Fitness Tracker
 
+> **Stack:** Java • Android • Firebase • Firebase AI Logic • SQLite
+
+[📂 Repository](https://github.com/Ashutosh9-pan/CodeAlpha_FitnessTrackerApp)
+
 VitaFit is a modern Android fitness tracking application built with Java, Firebase, and Firebase AI Logic. It brings workout logging, progress analytics, reminders, profile management, and several AI-assisted wellness tools together in one mobile application.
 
 > VitaFit provides general fitness and wellness guidance. It is not a substitute for professional medical advice.
