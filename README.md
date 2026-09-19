@@ -2,7 +2,7 @@
 
 > **Stack:** Java • Android • Firebase • Firebase AI Logic • SQLite
 
-[📂 Repository](https://github.com/Ashutosh9-pan/CodeAlpha_FitnessTrackerApp)
+[📂 Repository](https://github.com/Ashutosh9-pan/VitaFit-AI-Fitness-Tracker)
 
 VitaFit is a modern Android fitness tracking application built with Java, Firebase, and Firebase AI Logic. It brings workout logging, progress analytics, reminders, profile management, and several AI-assisted wellness tools together in one mobile application.
 
@@ -98,7 +98,7 @@ AI responses are formatted for clear mobile reading and include safety-focused i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ashutosh9-pan/CodeAlpha_FitnessTrackerApp.git
+   git clone https://github.com/Ashutosh9-pan/VitaFit-AI-Fitness-Tracker.git
    ```
 
 2. Open the project in Android Studio.
